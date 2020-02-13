@@ -7,3 +7,22 @@ body {
     margin: 0 auto;
     padding: 0;
 }
+
+.social-media {
+    color: red;
+}
+
+/* Social Media */
+
+.fab {
+    text-decoration: none;
+    font-size: 2em;
+}
+
+.fa-twitter {
+  color: #00acee;
+}
+
+.fa-facebook-square {
+  color: #3b5998;
+}
