@@ -49,3 +49,11 @@ body {
 }
 
 */
+
+.classroom {
+  background-image: url(../img/coding_opt.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  color: white;
+}
