@@ -30,5 +30,10 @@ body {
   background-color: red;
 }
 
-/* Copyright */
+/* Bootstrap Fixing */
+
+.jumbofix {
+   margin-bottom: 0;
+   height: 30px;
+}
 
