@@ -50,6 +50,12 @@ body {
 
 */
 
+.about-vid {
+  width: 500px;
+  height: 500px;
+  object-fit: contain;
+}
+
 .classroom {
   background-image: url(../img/coding_opt.jpg);
   background-repeat: no-repeat;
