@@ -69,5 +69,9 @@ body {
   height: 50%;
 }
 
-
+.form, .map {
+  display: block;
+  margin: auto;
+  margin-left: 35px;
+}
 
