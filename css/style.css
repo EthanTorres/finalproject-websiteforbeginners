@@ -56,10 +56,16 @@ body {
   object-fit: contain;
 }
 
-.classroom {
+/* .classroom {
   background-image: url(../img/coding_opt.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   height: 100%;
   color: white;
+} */
+
+.code-img {
+width: 100%;
+height: auto;
 }
+
