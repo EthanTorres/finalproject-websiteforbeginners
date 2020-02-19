@@ -1,8 +1,8 @@
 <html>
 <body>
 
-Thank you for contacting us, your email to check for infomation is: <?php echo $_POST["email"]; ?><br>
-We will respond to your infomation that you said:  <?php echo $_POST["email"]; ?>
+Your email address to check is: <?php echo $_POST["email"]; ?><br>
+We will respond to your message: <?php echo $_POST["info"]; ?>
 
 </body>
 </html>
