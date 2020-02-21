@@ -6,4 +6,7 @@ window.dataLayer = window.dataLayer || [];
 
 function DarkMode() {
   document.body.style.backgroundColor = "#121212"
+  document.getElementById('text').innerHTML = "Dark Mode is now active"
+  setTimeout(function(){ document.getElementById('text').innerHTML = ""; }, 3000);
 }
+// Dark Mode
