@@ -87,3 +87,7 @@ background: #55b9f3;
 box-shadow: inset 22px 22px 39px #4392c0, 
 inset -22px -22px 39px #67e0ff;
 }
+
+#text {
+  display: none;
+}
